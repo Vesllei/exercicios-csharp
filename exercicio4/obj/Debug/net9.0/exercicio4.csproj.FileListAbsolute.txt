@@ -1,0 +1,14 @@
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\bin\Debug\net9.0\exercicio4.exe
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\bin\Debug\net9.0\exercicio4.deps.json
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\bin\Debug\net9.0\exercicio4.runtimeconfig.json
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\bin\Debug\net9.0\exercicio4.dll
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\bin\Debug\net9.0\exercicio4.pdb
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.AssemblyInfoInputs.cache
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.AssemblyInfo.cs
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.dll
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\refint\exercicio4.dll
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.pdb
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\exercicio4.genruntimeconfig.cache
+D:\OneDrive\Documentos\exercicios-csharp\exercicio4\obj\Debug\net9.0\ref\exercicio4.dll
