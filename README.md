@@ -2,8 +2,8 @@
 
 ## Integrantes:
 - Weslley da Silva Severino
-- Nome Completo 2
-- Nome Completo 3
+- Bruno Ricardo Cavalli
+
 
 ---
 
