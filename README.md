@@ -3,6 +3,8 @@
 ## Integrantes:
 - Weslley da Silva Severino
 - Bruno Ricardo Cavalli
+- Cesar Augusto Castro dos Santos Filho
+- Renata Moreira da Silva
 
 
 ---
